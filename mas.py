@@ -13,7 +13,7 @@ print('2 = multiplication')
 print('3 = Division')
 print('4 = subtraction')
 pc = input("pls enter the part code:")
-if pc  =  1:
+if pc = 1:
     t1 = input("enter one number:")
     t2 = input("enter two number:")
     print(int(t1) + int(t2))
